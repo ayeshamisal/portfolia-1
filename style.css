@@ -7,7 +7,11 @@
     margin-right: 10px;
   }
 
-
+.fr{
+  justify-content: baseline;
+  font-size: larger;
+  column-count: initial;
+}
 
   .rightimage {
     position: absolute;
